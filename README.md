@@ -14,7 +14,7 @@ The notebook includes a simple analysis of student marks. It covers:
   - Total marks
   - Average marks
   - Grade or Pass/Fail status
-- Simple visualizations (if included)
+
 
 It's a small and easy-to-understand project made using basic Python concepts.
 
@@ -22,8 +22,8 @@ It's a small and easy-to-understand project made using basic Python concepts.
 
 - Python
 - Jupyter Notebook
-- Pandas (if used)
-- Matplotlib / Seaborn (if used for graphs)
+- Pandas
+- Matplotlib / Seaborn 
 
 ## 📁 Files Included
 
